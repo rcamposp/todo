@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://rcamposp.github.io/todo",
+  "homepage": "https://rcamposp.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
